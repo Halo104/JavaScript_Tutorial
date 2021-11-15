@@ -5,4 +5,4 @@ const interestRate = 0.3;
 let theName = "James"; // String Literal
 let age = 30; // Number Literal
 
-console.log(theName);
+console.log(age);
